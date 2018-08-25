@@ -43,7 +43,11 @@ Codes for C# (Visual Programming)
 20- Delegates & Multi-Cast Deligate
 
 21- Events & Multi-Cast Event
+
 22- Non Genric Collections (ArrayList, Hashtable, SortedList, Stack, Queue)
+
 23- Genric Collections
+
 24- Extension Methods
+
 25- Anonymous Functions (Anonymous Methods, Lambda Expressions)
