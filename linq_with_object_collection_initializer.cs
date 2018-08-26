@@ -32,7 +32,7 @@ class Demo
                     select new { p.FName, p.LName };
 
         foreach(var i in query)
-            Console.WriteLine();
+            Console.WriteLine(i);
 
         Console.ReadKey();
     }
